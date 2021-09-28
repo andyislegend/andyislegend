@@ -25,7 +25,7 @@ My name is Andrew Petryk
 ### 🎥 Non-Tech YouTube Videos:
 
 <table>
-<!-- YOUTUBENT:START --><tr> <td> <a href="https://www.youtube.com/watch?v=kP_-nE2i8Mo"> <img width="140px" src=""> </a> </td> <td> <a href="https://www.youtube.com/watch?v=kP_-nE2i8Mo">Interview by Marta Romaniak (UKR)</a> <br/>Jul 1, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=McMQ_m0ex3E"> <img width="140px" src=""> </a> </td> <td> <a href="https://www.youtube.com/watch?v=McMQ_m0ex3E">Avenga life talks: shake, drink, restart (UKR)</a> <br/>Jul 8, 2021 </td> </tr><<!-- YOUTUBENT:END -->
+<!-- YOUTUBENT:START --><tr> <td> <a href="https://www.youtube.com/watch?v=kP_-nE2i8Mo"> <img width="140px" src=""> </a> </td> <td> <a href="https://www.youtube.com/watch?v=kP_-nE2i8Mo">Interview by Marta Romaniak (UKR)</a> <br/>Jul 1, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=McMQ_m0ex3E"> <img width="140px" src=""> </a> </td> <td> <a href="https://www.youtube.com/watch?v=McMQ_m0ex3E">Avenga life talks: shake, drink, restart (UKR)</a> <br/>Jul 8, 2021 </td> </tr><!-- YOUTUBENT:END -->
 </table>
 
 ---
