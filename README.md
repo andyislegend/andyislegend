@@ -17,7 +17,12 @@ My name is Andrew Petryk
 ### 🎥 Tech YouTube Videos:
 
 <table>
-<!-- YOUTUBE:START --><tr> <td> <a href="https://www.youtube.com/watch?v=epOZvEtyF84"> <img width="140px" src="assets/devoxxUA.png"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=epOZvEtyF84">DevoxxUA 2018: Player Two Ready: Micronaut, a Spring Boot competitor (ENG)</a> <br/>Dec 12, 2018 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=1ITbenATAAU&t=1s"> <img width="140px" src="assets/jd_lviv_logo.png"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=1ITbenATAAU&t=1s">BOF | Something ends, Something begins (UKR)</a> <br/>Aug 4, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=azSAMIXKMqw"> <img width="140px" src="assets/cofeeJuf_logo.png"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=azSAMIXKMqw">Javarunner 2024 (UKR)</a> <br/>Jan 25, 2021 </td> </tr><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->
+  <tr> <td> <a href="https://www.youtube.com/watch?v=epOZvEtyF84"> <img width="140px" src="assets/devoxxUA.png"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=epOZvEtyF84">DevoxxUA 2018: Player Two Ready: Micronaut, a Spring Boot competitor (ENG)</a> <br/>Dec 12, 2018 </td> </tr>
+  <tr> <td> <a href="https://www.youtube.com/watch?v=1ITbenATAAU&t=1s"> <img width="140px" src="assets/jd_lviv_logo.png"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=1ITbenATAAU&t=1s">BOF | Something ends, Something begins (UKR)</a> <br/>Aug 4, 2020 </td> </tr>
+  <tr> <td> <a href="https://www.youtube.com/watch?v=azSAMIXKMqw"> <img width="140px" src="assets/cofeeJuf_logo.png"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=azSAMIXKMqw">Javarunner 2024 (UKR)</a> <br/>Jan 25, 2021 </td> </tr>
+  <tr> <td> <a href="https://www.youtube.com/watch?v=LDrr_-4sTqg"> <img width="140px" src="assets/devoxxUA.png"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=LDrr_-4sTqg">DevoxxUA 2023: Heroes of System Design and Magic (ENG)</a> <br/>Dec 12, 2018 </td> </tr>  
+  <!-- YOUTUBE:END -->
 </table>
 
 ---
