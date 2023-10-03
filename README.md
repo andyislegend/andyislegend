@@ -11,6 +11,7 @@ My name is Andrew Petryk
 [<img alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img alt="Medium" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][medium]
 
 ---
 
@@ -38,3 +39,4 @@ My name is Andrew Petryk
 [instagram]: https://instagram.com/andy_is_legend
 [linkedin]: https://www.linkedin.com/in/andrew-petryk/
 [twitter]: https://twitter.com/ipreferespresso
+[medium]: https://medium.com/@ipreferespresso
