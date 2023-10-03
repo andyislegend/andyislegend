@@ -2,7 +2,7 @@
 My name is Andrew Petryk
 
 - 📍 I’m From Ukraine (Lviv), currently in the UK
-- 🔭 I’m currently working for Avenga as Engineering Director (Java, BigData, Mule, Integrations & Ruby)
+- 🔭 I’m currently working for Avenga as Engineering Director (Java, BigData, Mule & Integrations)
 - 💬 Ask me about Java, Groovy, Scala, Micronaut & Spring Boot, Spark
 - 📫 How to reach me: @ipreferespresso on Twitter
 - ⚡ Fun fact: I drink and know things
